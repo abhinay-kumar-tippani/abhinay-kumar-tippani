@@ -92,13 +92,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=abhinay-kumar-tippani&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://pacman.abozanona.me?username=abhinay-kumar-tippani" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhinay-kumar-tippani&theme=tokyonight&hide_border=false" height="150" alt="streak graph"  />
 </div>
 
 ###
