@@ -1,60 +1,106 @@
-# 👋 Hi, I'm Abhinay Kumar Tippani  
+<div align="center">
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
+</div>
 
-🚀 Passionate **Web Developer** and **Tech Enthusiast** who loves turning ideas into reality through clean and efficient code.  
-I’m currently learning the **MERN Stack** (MongoDB, Express, React, Node.js) and exploring **mobile app development** to expand my skill set.  
+###
 
-I enjoy participating in **hackathons**, collaborating on projects, and constantly improving my problem-solving and programming skills.
+<div align="center">
+  <a href="https://linkedin.com/in/abhinay-kumar-tippani" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+</div>
 
----
+###
 
-## 🧠 About Me
+<h1 align="center">Abhinay Kumar Tippani | Turning Vision into Code 💻</h1>
 
-- 💻 Currently learning **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 📱 Interested in **Web & Mobile App Development**  
-- ⚡ Participated in **Hackathons** to explore real-world problem-solving  
-- 🎯 Aspiring to become a skilled **Full Stack Developer**  
-- 🧩 Always open to collaborating on interesting projects  
+###
 
----
+<h3 align="center">👨‍💻 About Me</h3>
 
-## 🛠️ Skills
-
-**Languages & Frameworks:**  
-`C` | `C++` | `JavaScript` | `HTML` | `CSS` | `Tailwind CSS` | `React.js` | `Node.js` | `Express.js` | `MongoDB`
-
-**Tools & Platforms:**  
-`Git` | `GitHub` | `VS Code` | `Netlify` | `Figma`
-
-**Areas of Interest:**  
-🌐 Frontend Development • 🧩 Backend Development • 📱 Mobile Apps • 💡 Hackathons • 🧠 Problem Solving
-
----
-
-## 💼 Projects
-
-### 🧭 [VJIT Study Portal](https://vjit-study-portal.netlify.app/)
-A dedicated study portal built for VJIT students — providing resources, materials, and academic support in one place.  
-*Tech Stack:* HTML, CSS, Tailwind CSS, JavaScript  
-
-*(Add more projects here as you create or update them!)*
-
----
-
-## 📊 GitHub Stats
+###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinay-kumar-tippani&show_icons=true&theme=tokyonight" alt="Abhinay's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinay-kumar-tippani&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  - 🎓 B.Tech Student at VJIT (2023–2027)<br>
+  - 🌱 Currently learning <b>MERN Stack (MongoDB, Express, React, Node.js)</b><br>
+  - 💡 Interests: Web Development, Mobile Apps, Hackathons & Tech Projects<br>
+  - 🚀 Passionate about coding, problem-solving, and continuous learning<br>
+  - 💼 Open to collaborating on exciting web and app development projects
 </p>
 
----
+###
 
-## 🤝 Let's Connect
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-- 💼 GitHub: [@abhinay-kumar-tippani](https://github.com/abhinay-kumar-tippani)  
-- 🌐 Portfolio: *Coming Soon*  
-- ✉️ Reach me: *Add your email or LinkedIn once ready*  
+###
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-⭐ *“Code. Create. Collaborate. Keep growing every day.”*  
+###
+
+<h3 align="center">🚀 Projects</h3>
+
+###
+
+<div align="center">
+  
+  🔹 <b>[VJIT Study Portal](https://vjit-study-portal.netlify.app/)</b>  
+  A dedicated platform for VJIT students — offering study materials, resources, and easy access to learning content.<br>
+  <i>Tech Stack:</i> HTML • CSS • Tailwind CSS • JavaScript
+  
+</div>
+
+###
+
+<h3 align="center">🔥 My GitHub Stats</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinay-kumar-tippani&show_icons=true&theme=tokyonight" height="150" alt="github stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-kumar-tippani&layout=compact&theme=tokyonight" height="150" alt="top languages"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abhinay-kumar-tippani&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://pacman.abozanona.me?username=abhinay-kumar-tippani" />
+</div>
+
+###
+
+<h3 align="center">🌟 “Code. Create. Collaborate. Repeat.” 🌟</h3>
