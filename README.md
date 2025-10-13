@@ -4,7 +4,7 @@
   <a href="https://linkedin.com/in/abhinay-kumar-tippani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/" target="_blank">
+  <a href="https://instagram.com/abhinaytippani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="Instagram" />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="Discord" />
@@ -12,14 +12,14 @@
 
 ###
 
-<h1 align="center">Abhinay Kumar Tippani | Turning Vision into Code 💻</h1>
+<h1 align="center">Abhinay Kumar Tippani </h1>
 
 ###
 
 <h3 align="center">👨‍💻 About Me</h3>
 
 <p align="center">
-  - 🎓 B.Tech Student at VJIT (2023–2027)<br>
+  - 🎓 AI-ML Student at VJIT (2024–2028)<br>
   - 🌱 Learning <b>MERN Stack</b> (MongoDB, Express, React, Node.js)<br>
   - 💡 Interests: Web & Mobile Development, Hackathons, Tech Projects<br>
   - 🚀 Passionate about problem solving, collaboration & continuous growth
@@ -60,7 +60,7 @@
 <div align="center">
   🔹 <b>[VJIT Study Portal](https://vjit-study-portal.netlify.app/)</b><br>
   A dedicated platform for VJIT students — offering study materials, resources, and learning content.<br>
-  <i>Tech Stack:</i> HTML • CSS • Tailwind CSS • JavaScript
+  <i>Tech Stack:</i> HTML • CSS • JavaScript
 </div>
 
 ###
