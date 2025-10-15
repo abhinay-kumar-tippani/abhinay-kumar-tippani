@@ -68,14 +68,19 @@
 ###
 
 <h3 align="center">📊 My GitHub Stats</h3>
+
 <div align="center">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinay-kumar-tippani&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhinay-kumar-tippani&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub stats" />
+<br>
   <!-- GitHub Streak -->
-<img src="https://streak-stats.vercel.app?user=abhinay-kumar-tippani&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
+  <img src="https://streak-stats.vercel.app?user=abhinay-kumar-tippani&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
+<br>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-kumar-tippani&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-kumar-tippani&layout=compact&theme=dark&hide_border=false&border_radius=5" height="150" alt="Top languages" />
 </div>
+
 
 
 ###
