@@ -69,11 +69,12 @@
 
 <h3 align="center">📊 My GitHub Stats</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinay-kumar-tippani&show_icons=true&theme=tokyonight" height="150" alt="GitHub stats" />
-  <img src="https://streak-stats.vercel.app?user=abhinay-kumar-tippani&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-kumar-tippani&layout=compact&theme=tokyonight" height="150" alt="Top languages" />
-<!-- <div align="center"> -->
-<!-- </div> -->
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinay-kumar-tippani&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="GitHub stats" />
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://streak-stats.vercel.app?user=abhinay-kumar-tippani&theme=dark)](https://git.io/streak-stats)
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinay-kumar-tippani&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="Top languages" />
 </div>
 
 
