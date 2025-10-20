@@ -82,5 +82,3 @@
 </div>
 
 ###
-
-<h3 align="center">🌟 “Code. Create. Collaborate. Repeat.” 🌟</h3>
